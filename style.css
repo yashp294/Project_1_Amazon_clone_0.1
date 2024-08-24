@@ -106,7 +106,7 @@ body {
 
 /* Hero Section */
 .hero-cover {
-  background-image: url("img/hero_image.jpg");
+  background-image: url("Img/hero_image.jpg");
   background-size: cover;
   height: 300px;
   display: flex;
@@ -209,7 +209,7 @@ body {
 }
 
 .logo {
-  background-image: url("img/amazon_logo.png");
+  background-image: url("Img/amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 130px;
